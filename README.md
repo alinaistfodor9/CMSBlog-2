@@ -7,3 +7,5 @@ Compatible with Sitecore 10.
 **Installation guide**
 - install Sitecore package
 - copy files in your website folder
+
+Blog reference: [here](https://https://cmsclub9.wordpress.com/)
