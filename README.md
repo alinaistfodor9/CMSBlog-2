@@ -8,4 +8,4 @@ Compatible with Sitecore 10.
 - install Sitecore package
 - copy files in your website folder
 
-Blog reference: [here](https://https://cmsclub9.wordpress.com/)
+Blog reference: [here](https://cmsclub9.wordpress.com/2021/02/02/sitecore-forms-publish-button/)
